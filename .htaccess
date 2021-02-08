@@ -1,0 +1,14 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^home$ home.php [L]
+RewriteRule ^panel$ panel.php [L]
+RewriteRule ^panel/login$ panel-login.php [L]
+RewriteRule ^panel/logout$ panel-logout.php [L]
+RewriteRule ^panel/service$ panel-service.php [L]
+RewriteRule ^panel/portfolio$ panel-portfolio.php [L]
+RewriteRule ^panel/counter$ panel-counter.php [L]
+RewriteRule ^panel/testimonial$ panel-testimonial.php [L]
+RewriteRule ^panel/contact$ panel-contact.php [L]
+RewriteRule ^panel/setting$ panel-setting.php [L]
+RewriteRule ^panel/banner$ panel-banner.php [L]
+RewriteRule ^action$ action.php [L]
