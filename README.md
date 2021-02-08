@@ -23,4 +23,6 @@ Kurulumu:
 
 -Dosya düzenlenmesi tamamlandıktan sonra sunucunuza yükleyip kullanabilirsiniz.
 
-Eğer bir sorun ile karşılaşırsanız bana info@oxcakmak.com adresinden mail atabilirsin
+Eğer bir sorun ile karşılaşırsanız bana info@oxcakmak.com adresinden mail atabilirsiniz
+
+<img src="https://github.com/oxcakmak/mariya-ucretsiz-kisisel-portfoy-scripti/blob/main/preview.png" alt="Mariya Ücretsiz Kişisel Portföy Scripti" />
